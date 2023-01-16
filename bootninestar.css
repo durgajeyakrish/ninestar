@@ -310,31 +310,6 @@ input:focus{
 	width: 50%;
 	margin-left: 60px;
 }
-/*-------------Contacts section end-------------*/
-/* #contacts i{ */
-	/* background-color:#eb5d1e; */
-	/* color:#fff; */
-	/* width:34px; */
-	/* height:34px; */
-	/* border-radius:50%; */
-	/* display:inline-flex; */
-	/* justify-content:center; */
-	/* align-items:center; */
-/* } */
-/* #contacts alignitem{ */
-	/* align-items: stretch !important; */
-/* } */
-/* #contacts .b-ho:hover i{ */
-	/* color: white; */
-	/* background: #eb5d1e; */
-/* } */
-/* .bor-bot-color{ */
-	/* border-bottom: 3px solid #eb5d1e; */
-/* } */
-/* .bor-top-color{ */
-	/* border-top: 3px solid #eb5d1e; */
-/* } */
-
 .contact{
 	padding-top:2rem;
 }
@@ -396,6 +371,16 @@ input:focus{
 	border-bottom:2px solid #EE6308 ;
 	border-top:2px solid #EE6308 ;
 	padding:1rem;		
+}
+.head3{
+	text-align:center;
+	margin-top:2rem;
+	font-size:1.9rem;
+	color: #c2b7b1;
+}
+.head4{
+	text-align:center;
+	margin-top:1rem;
 }
 /*----------footer section----------*/
 .foot-2 .iconlast iconify-icon{
